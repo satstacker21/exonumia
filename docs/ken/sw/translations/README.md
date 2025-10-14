@@ -7,4 +7,4 @@
 
 ## Exonumia Bookstore
 
-Visit the [Exonumia Bookstore](https://bookstore.exonumia.africa/) to explore Bitcoin literature translated into native African languages.
+Tembelea [Duka la Vitabu la Exonumia](https://bookstore.exonumia.africa/) ili kuchunguza fasihi ya Bitcoin iliyotafsiriwa katika lugha za asili za Kiafrika.
