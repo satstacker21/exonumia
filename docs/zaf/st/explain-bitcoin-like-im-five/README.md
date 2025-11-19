@@ -2,10 +2,10 @@
 translators: 
     -   
         name: "Maipa Todsello"
-        href: "maipatodsello@gmail.com/"
+        href: "maipatodsello@gmail.com"
     -
         name: "Bonoloma Foyane"
-        href: "bonolomafoyane.work@gmail.com/"
+        href: "bonolomafoyane.work@gmail.com"
         
 supporters: 
     - 
